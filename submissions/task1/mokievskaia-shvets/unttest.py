@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from func import nash_equilibrium
+from functions import nash_equilibrium
 
 class TestNashEquilibrium(unittest.TestCase):
     def test_nash_equilibrium_case1(self):
